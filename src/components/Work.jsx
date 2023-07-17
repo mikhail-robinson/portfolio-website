@@ -2,7 +2,7 @@ import React from 'react'
 import Pinky from '../assets/pinky.png'
 import Website from '../assets/website.png'
 import Widget from '../assets/widget.png'
-import Progress from '../assets/progress.jpg'
+import Progress from '../assets/progress.png'
 
 const Work = () => {
   return (
