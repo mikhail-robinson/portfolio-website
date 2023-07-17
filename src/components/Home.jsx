@@ -16,7 +16,7 @@ const Home = () => {
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           Experienced in audio engineering and audio-visual commercial design,
-          currently exploring the world of software development. Always trying
+          currently looking for a career in software development. Always trying
           to grow, learn and be kind to people.
         </p>
         <div>
